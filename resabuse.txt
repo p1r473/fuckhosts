@@ -1,7 +1,5 @@
 ##original: https://github.com/uBlockOrigin/uAssets/blob/master/filters/resource-abuse.txt
 
-
-0.0.0.0 rawgit.com
 0.0.0.0 revdl.com
 0.0.0.0 edu.ro
 0.0.0.0 upgraderservices.cf
